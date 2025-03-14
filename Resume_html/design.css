@@ -1,0 +1,18 @@
+body{
+    background-color: white;
+}
+
+.p2{ /* Class */
+
+    color: grey;
+}
+
+#certificateImage{ /* ID */
+    width: 1300px;
+    height: 600px;
+}
+
+#iconImage{ /* ID */
+    width: 30px;
+    height: 30px;
+}
